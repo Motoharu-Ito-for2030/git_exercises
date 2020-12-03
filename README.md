@@ -2,7 +2,8 @@
 
 - I am student 
 - I am a web developer 
-- I am asoftware engineer 
+- I am a software engineer
+- I am an otaku 
 
 ## College
 
