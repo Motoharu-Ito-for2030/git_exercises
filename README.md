@@ -6,4 +6,4 @@
 
 ## College
 
-**Name:**Aoyama Gakuin University
+**Name:** Aoyama Gakuin University
