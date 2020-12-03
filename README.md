@@ -7,3 +7,13 @@
 ## College
 
 **Name:** Aoyama Gakuin University
+
+# Ghaiyur
+
+- I am a programmer 
+- I am data scientist 
+- I am an otaku 
+
+## College 
+
+**Name:** MIT
