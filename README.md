@@ -3,18 +3,23 @@
 - I am a Japanese student 
 - I am a web developer 
 - I am a software engineer
-- I am not an otaku 
+
+#Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+- React
+- Git
+- Github
+- MySQL
 
 ## College
 
 **Name:** Aoyama Gakuin University
 
-# Ghaiyur
 
-- I am a programmer 
-- I am data scientist 
-- I am an otaku 
+- My First branch
 
-## College 
-
-**Name:** MIT
