@@ -1,9 +1,9 @@
 # Motoharu Ito
 
-- I am student 
+- I am a Japanese student 
 - I am a web developer 
 - I am a software engineer
-- I am an otaku 
+- I am not an otaku 
 
 ## College
 
